@@ -1,5 +1,5 @@
 [package]
-name = "guessing_game"
+name = "primitive_guessing_game"
 version = "0.1.0"
 authors = ["Paul Huebner <paul.huebner@googlemail.com>"]
 edition = "2018"
